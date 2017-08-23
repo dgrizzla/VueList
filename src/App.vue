@@ -4,7 +4,7 @@
     <h2>Links de Prueba</h2>
     <ul>
       <li>
-        <router-link :to="{name: 'Home'}">Home</router-link>
+        <router-link :to="{name: 'Hello'}">Hello</router-link>
       </li>
       <li>
         <router-link :to="{name: 'Perrito'}">Perrito</router-link>

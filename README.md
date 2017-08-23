@@ -1,6 +1,6 @@
-# vote-list
+# my-project
 
-> A Vue.js project
+> VueList
 
 ## Build Setup
 

@@ -6,7 +6,17 @@
 </template>
 
 <script>
-		export default {
-		  name: 'Perrito'
-		}
+		// import axios from 'axios'
+		
+		// axios.get('/api')
+		// .then(function (response) {
+		//   console.log(response)
+		// })
+		// .catch(function (error) {
+		//   console.log(error)
+		// })
+
+		// export default {
+		//   name: 'Perrito'
+		// }
 </script>
